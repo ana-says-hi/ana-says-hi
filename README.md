@@ -32,7 +32,6 @@ This git description is a work_in_progess aswell :,)
 <br/>
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ana-says-hi&theme=tokyonight)
 ![TOP LANGS](https://github-readme-stats.vercel.app/api/top-langs/?username=ana-says-hi&layout=compact&theme=transparent)
 
 <!--
