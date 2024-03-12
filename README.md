@@ -30,7 +30,6 @@ I am a Computer Science student in Cluj-Napoca.
 This git description is a work_in_progess aswell :,)
 
 <br/>
-<br/>
 
 ![TOP LANGS](https://github-readme-stats.vercel.app/api/top-langs/?username=ana-says-hi&layout=compact&theme=transparent)
 
