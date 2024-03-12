@@ -8,9 +8,11 @@ I am a Computer Science student in Cluj-Napoca. I am studying in German, but you
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="CPP" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="Java" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" alt="MySQL" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="Docker" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Light.svg" alt="PostgreSQL" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="Postman" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Light.svg" alt="Spring" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ana-says-hi&theme=tokyonight)
