@@ -20,7 +20,7 @@ I am a Computer Science student in Cluj-Napoca. I am studying in German, but you
 
 
 ### These are a Work_in_progress:
-<p align="center">
+<p>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="NodeJS" height="60" style="vertical-align:top; margin:4px">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Npm-Dark.svg" alt="npm" height="60" style="vertical-align:top; margin:4px">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="React" height="60" style="vertical-align:top; margin:4px">
