@@ -7,15 +7,14 @@ known languages:
 <p align="center">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="CPP" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="Java" height="40" style="vertical-align:top; margin:4px">
-<img src="" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 some other tools I used:
 <p align="center">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="Docker" height="40" style="vertical-align:top; margin:4px">
-<img src="" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Light.svg" alt="PostgreSQL" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="Postman" height="40" style="vertical-align:top; margin:4px">
 <img src="" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 </p>
 
