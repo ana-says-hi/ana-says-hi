@@ -24,10 +24,11 @@ I am a Computer Science student in Cluj-Napoca.
 <p>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="NodeJS" height="60" style="vertical-align:top; margin:4px">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Npm-Dark.svg" alt="npm" height="60" style="vertical-align:top; margin:4px">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="React" height="60" style="vertical-align:top; margin:4px">
-
-
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="React" height="60" style="vertical-align:top; margin:4px"
 </p>
+
+<br/>
+<br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ana-says-hi&theme=tokyonight)
 
