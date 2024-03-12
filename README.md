@@ -27,6 +27,8 @@ I am a Computer Science student in Cluj-Napoca.
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="React" height="60" style="vertical-align:top; margin:4px"
 </p>
 
+<p/ This git description is a work_in_progess aswell :,)>
+
 <br/>
 <br/>
 
