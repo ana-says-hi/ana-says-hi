@@ -7,7 +7,7 @@ known languages:
 
 https://cdn-icons-png.flaticon.com/512/1088/1088605.png
 <p align="center">
-<img src="https://cdn-icons-png.flaticon.com/512/1088/1088605.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/asm/asm.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
 
