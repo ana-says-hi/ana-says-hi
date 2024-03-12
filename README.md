@@ -5,8 +5,7 @@ I am a Computer Science student in Cluj-Napoca. I am studying in German, but you
 
 known languages:
 <p align="center">
-![icons8-assembly-48](https://github.com/ana-says-hi/ana-says-hi/assets/120421396/10e9b18e-1d90-4117-b6a0-74fba4c24817)
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+<img src="[https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png](https://cdn-icons-png.flaticon.com/512/1088/1088605.png)" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
 
