@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-I am a Computer Science student in Cluj-Napoca. I am studying in German, but you feel free to talk to me in English or Romanian aswell. 
+I am a Computer Science student in Cluj-Napoca.
 
 
 ### Some languages and other tools I used:
