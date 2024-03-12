@@ -7,8 +7,18 @@ known languages:
 
 https://cdn-icons-png.flaticon.com/512/1088/1088605.png
 <p align="center">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="CPP" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="Java" height="40" style="vertical-align:top; margin:4px">
 <img src="" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+<img src="" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+</p>
+
+some other tools I used:
+<p align="center">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="Docker" height="40" style="vertical-align:top; margin:4px">
+<img src="" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+<img src="" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+<img src="" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ana-says-hi&theme=tokyonight)
