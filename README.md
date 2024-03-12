@@ -5,7 +5,7 @@ I am a Computer Science student in Cluj-Napoca. I am studying in German, but you
 
 
 
-(https://github-readme-stats.vercel.app/api/top-langs/?username=ana-says-hi&theme=tokyonight)
+!(https://github-readme-stats.vercel.app/api/top-langs/?username=ana-says-hi&theme=tokyonight)
 
 <!--
 **ana-says-hi/ana-says-hi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
