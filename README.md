@@ -32,7 +32,9 @@ This git description is a work_in_progess aswell :,)
 <br/>
 
 ![TOP LANGS](https://github-readme-stats.vercel.app/api/top-langs/?username=ana-says-hi&layout=compact&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ana-says-hi&langs_count=8)
+
+
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ana-says-hi)](https://github.com/ana-says-hi/github-readme-stats)
 
 <!--
 **ana-says-hi/ana-says-hi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
