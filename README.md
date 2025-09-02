@@ -7,7 +7,7 @@ I am a Computer Science graduate in Cluj-Napoca. During my student years I have 
 ### Some languages and other tools I used:
 <p align="center">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="CPP" height="70" style="vertical-align:top; margin:4px">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" alt="C#" height="70" style="vertical-align:top; margin:4px">
+<!-- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" alt="C#" height="70" style="vertical-align:top; margin:4px"> -->
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="Java" height="70" style="vertical-align:top; margin:4px">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python" height="70" style="vertical-align:top; margin:4px">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MySQL" height="70" style="vertical-align:top; margin:4px">
