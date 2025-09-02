@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-I am a Computer Science student in Cluj-Napoca.
+I am a Computer Science graduate in Cluj-Napoca. During my student years I have worked as a part-time SAP-Basis Consultant, but my programming experience is not lacking.
 
 
 ### Some languages and other tools I used:
@@ -17,17 +17,10 @@ I am a Computer Science student in Cluj-Napoca.
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="Postman" height="70" style="vertical-align:top; margin:4px">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" alt="Spring" height="70" style="vertical-align:top; margin:4px">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ubuntu-Dark.svg" alt="Ubuntu" height="70" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="NodeJS" height="70" style="vertical-align:top; margin:4px">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Npm-Dark.svg" alt="npm" height="70" style="vertical-align:top; margin:4px">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg" alt="Angular" height="70" style="vertical-align:top; margin:4px">
 </p>
-
-
-### These are a Work_in_progress:
-<p>
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="NodeJS" height="60" style="vertical-align:top; margin:4px">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Npm-Dark.svg" alt="npm" height="60" style="vertical-align:top; margin:4px">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg" alt="Angular" height="60" style="vertical-align:top; margin:4px"
-</p>
-
-This git description is a work_in_progess aswell :,)
 
 <br/>
 
