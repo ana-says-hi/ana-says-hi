@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-I am a Computer Science graduate in Cluj-Napoca. During my student years I have worked as a part-time SAP-Basis Consultant, but my programming experience is not lacking.
+I am a Computer Science graduate in Cluj-Napoca. During my student years I have worked as a part-time Android Developer and a SAP-Basis Consultant.
 
 
 ### Some languages and other tools I used:
