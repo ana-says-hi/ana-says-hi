@@ -24,6 +24,7 @@ I am a Computer Science graduate in Cluj-Napoca. During my student years I have 
 
 <br/>
 
+<!--
 ![TOP LANGS](https://github-readme-stats.vercel.app/api/top-langs/?username=ana-says-hi&layout=compact&theme=transparent)
 
 <!--
